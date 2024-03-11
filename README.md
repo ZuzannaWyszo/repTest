@@ -1,1 +1,1 @@
-# udawaj ze to jest nasze wiki
+# potraktujmy readMe jako nasze wiki
