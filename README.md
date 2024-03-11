@@ -1,1 +1,1 @@
-# potraktujmy readMe jako nasze wiki
+Readme
